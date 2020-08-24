@@ -3,6 +3,6 @@ class Post
   
   def initialize
     @titles = []
-    @titles = titles
+    @titles
   end 
 end
