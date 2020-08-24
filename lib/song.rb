@@ -3,6 +3,5 @@ class Song
   
   def initialize
     @artists = []
-    @artists
   end 
 end
