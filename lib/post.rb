@@ -3,6 +3,5 @@ class Post
   
   def initialize
     @authors = []
-    @authors = authors
   end 
 end
